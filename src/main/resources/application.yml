@@ -11,7 +11,6 @@ spring:
           max-interval: 10s
           multiplier: 2
 logging:  level:    org.springframework.amqp.rabbit: INFO
-    root: DEBUG
 queue:
   U2571: flight.eu.U2571
   U2771: flight.eu.U2771
