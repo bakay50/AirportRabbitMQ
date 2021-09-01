@@ -20,10 +20,10 @@ java -jar AirportRabbitMQ-1.0.0.jar --spring.profiles.active=airplane --server.p
 java -jar AirportRabbitMQ-1.0.0.jar --spring.profiles.active=airplane --server.port=8086 --flight.code=flight.eu.U2771
 
 ### Flight FR691
-java -jar AirportRabbitMQ-1.0.0.jar --spring.profiles.active=airplane --server.port=8087 --flight.code=flight.eu.FR691
+java -jar AirportRabbitMQ-1.0.0.jar --spring.profiles.active=airplane --server.port=8087 --flight.code=flight.uk.FR691
 
 ### Flight UA221
-java -jar AirportRabbitMQ-1.0.0.jar --spring.profiles.active=airplane --server.port=8088 --flight.code=flight.eu.UA221
+java -jar AirportRabbitMQ-1.0.0.jar --spring.profiles.active=airplane --server.port=8088 --flight.code=flight.us.UA221
 
 ## Send Passenger Request
 
